@@ -1,0 +1,1 @@
+python main.py --models DSFA --config_filename  data/config/config_dsfa_metr.yaml --cuda cuda:0
